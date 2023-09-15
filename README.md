@@ -8,7 +8,7 @@ The following APIs from Pangea are used in this app:
 
 # Application and Use Cases
 
-# Contact Details for Authorities in a case of suspected fraud such as smishing
+# Contact Details for Authorities In A Case of Suspected Fraud such as Smishing
 1. United States of America
 2. United Kingdom
 3. Australia
