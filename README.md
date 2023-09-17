@@ -2,6 +2,7 @@
 Smishing Detector is an Android app that protects users from being victims of smishing, which is defined as an act of fraud through SMS/text messages usually done to induce a potential victim into giving confidential information such as those entailing access to one's finance. This app is built using Java (as many Android apps are) and uses the Pangea APIs.
 
 # What is Smishing?
+Smishing is a portmanteau of the words "SMS", which is an acronym for text messages meaning "short message service", as well as "phishing" which is a different form of fraud that involves pretending to be an organisation or entity that you are not usually via email in order to elicit confidential information. This information is usually financial information, but it can also be other information such as company secrets. 
 
 # Pangea APIs used in this app
 The following APIs from Pangea are used in this app:
