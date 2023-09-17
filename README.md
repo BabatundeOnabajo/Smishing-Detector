@@ -8,8 +8,10 @@ Smishing is a portmanteau of the words "SMS", which is an acronym for text messa
 The following APIs from Pangea are used in this app:
 
 # Requirements
+In order to use this app, you need to have the following:
 
 # Instructions
+In order to use this app, please follow the instructions below:
 
 # Application and Use Cases
 
