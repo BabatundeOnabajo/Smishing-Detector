@@ -27,6 +27,7 @@ The following APIs from Pangea are used in this app:
 11. India
 
 # Disclaimer
+The code here does not represent the views of Oracle Inc or Pangea Cyber Corporation nor should the publication of this program be construed as an endorsement of the aforementioned companies (or any past, present or future employer of the author) in any way. Any trademarks used in this program are those of their respective holders.
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
