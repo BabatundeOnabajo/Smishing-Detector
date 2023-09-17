@@ -7,6 +7,10 @@ Smishing is a portmanteau of the words "SMS", which is an acronym for text messa
 # Pangea APIs used in this app
 The following APIs from Pangea are used in this app:
 
+# Requirements
+
+# Instructions
+
 # Application and Use Cases
 
 # Contact Details for Authorities In A Case of Suspected Fraud such as Smishing
