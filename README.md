@@ -17,10 +17,10 @@ In order to use this app, please follow the instructions below:
 
 # Contact Details for Authorities In A Case of Suspected Fraud such as Smishing
 - United States of America
-  i.
+        i.
 - United Kingdom
-  i. Action Fraud: 
-  ii. National Crime Agency (NCA):
+        i. Action Fraud: 
+        ii. National Crime Agency (NCA):
 3. Australia
 4. Canada
 5. Germany
