@@ -9,6 +9,8 @@ The following APIs from Pangea are used in this app:
 * Readact
 * URL Intel
 
+# Description of files in this repository
+
 # Requirements
 In order to use this app, you need to have the following:
 
