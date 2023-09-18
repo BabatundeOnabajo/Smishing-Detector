@@ -6,6 +6,8 @@ Smishing is a portmanteau of the words "SMS", which is an acronym for text messa
 
 # Pangea APIs used in this app
 The following APIs from Pangea are used in this app:
+* Readact
+* URL Intel
 
 # Requirements
 In order to use this app, you need to have the following:
