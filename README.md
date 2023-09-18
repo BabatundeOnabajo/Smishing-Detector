@@ -31,8 +31,9 @@ In order to use this app, please follow the instructions below:
 10. Austria
 11. India
 
+# Credits
+Babatunde Onabajo (ChurchMapped Limited)
+
 # Disclaimer
 The code here does not represent the views of Oracle Inc or Pangea Cyber Corporation nor should the publication of this program be construed as an endorsement of the aforementioned companies (or any past, present or future employer of the author) in any way. Any trademarks used in this program are those of their respective holders.
 
-# Credits
-Babatunde Onabajo (ChurchMapped Limited)
